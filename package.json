@@ -1,6 +1,6 @@
 {
   "name": "mugi-keep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,11 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:mugiseyebrows/mugi-keep.git"
-  }
+  },
+  "keywords" : [
+    "backup",
+    "copy",
+    "file",
+    "rewrite"
+  ]
 }
