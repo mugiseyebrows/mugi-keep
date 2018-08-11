@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mugiseyebrows/mugi-keep.git"
+  }
 }
